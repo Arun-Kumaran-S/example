@@ -3,6 +3,7 @@
 void main()
 {
     printf("Hello world");
-    printf("arun kumaran"):
+    printf("arun kumaran");
+     printf("ece");
     getch();
     }
